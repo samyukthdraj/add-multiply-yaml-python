@@ -1,0 +1,3 @@
+# config.yaml
+stage1_operation: add
+stage2_operation: multiply
